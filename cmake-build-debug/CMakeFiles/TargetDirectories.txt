@@ -1,0 +1,3 @@
+C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/CPlus_Course.dir
+C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
