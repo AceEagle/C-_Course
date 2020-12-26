@@ -4,7 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/math_/Documents/GitHub/CPlus_Course/Main.cpp" "C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/CPlus_Course.dir/Main.cpp.obj"
+  "C:/Users/math_/Documents/GitHub/CPlus_Course/Character/Character.cpp" "C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/CPlus_Course.dir/Character/Character.cpp.obj"
+  "C:/Users/math_/Documents/GitHub/CPlus_Course/Character/MainCharacter.cpp" "C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.obj"
+  "C:/Users/math_/Documents/GitHub/CPlus_Course/Character/Weapon.cpp" "C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.obj"
+  "C:/Users/math_/Documents/GitHub/CPlus_Course/Time/MainTime.cpp" "C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.obj"
+  "C:/Users/math_/Documents/GitHub/CPlus_Course/Time/Time.cpp" "C:/Users/math_/Documents/GitHub/CPlus_Course/cmake-build-debug/CMakeFiles/CPlus_Course.dir/Time/Time.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

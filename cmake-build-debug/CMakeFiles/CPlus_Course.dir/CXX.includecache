@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/math_/Documents/GitHub/CPlus_Course/Main.cpp
+C:/Users/math_/Documents/GitHub/CPlus_Course/Time/MainTime.cpp
+Time.h
+C:/Users/math_/Documents/GitHub/CPlus_Course/Time/Time.h
+iostream
+-
+
+C:/Users/math_/Documents/GitHub/CPlus_Course/Time/Time.cpp
+Time.h
+C:/Users/math_/Documents/GitHub/CPlus_Course/Time/Time.h
+cmath
+-
+
+C:/Users/math_/Documents/GitHub/CPlus_Course/Time/Time.h
 iostream
 -
 

@@ -76,32 +76,92 @@ include CMakeFiles/CPlus_Course.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPlus_Course.dir/flags.make
 
-CMakeFiles/CPlus_Course.dir/Main.cpp.obj: CMakeFiles/CPlus_Course.dir/flags.make
-CMakeFiles/CPlus_Course.dir/Main.cpp.obj: ../Main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\math_\Documents\GitHub\CPlus_Course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPlus_Course.dir/Main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPlus_Course.dir\Main.cpp.obj -c C:\Users\math_\Documents\GitHub\CPlus_Course\Main.cpp
+CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.obj: CMakeFiles/CPlus_Course.dir/flags.make
+CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.obj: ../Character/MainCharacter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\math_\Documents\GitHub\CPlus_Course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPlus_Course.dir\Character\MainCharacter.cpp.obj -c C:\Users\math_\Documents\GitHub\CPlus_Course\Character\MainCharacter.cpp
 
-CMakeFiles/CPlus_Course.dir/Main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus_Course.dir/Main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\math_\Documents\GitHub\CPlus_Course\Main.cpp > CMakeFiles\CPlus_Course.dir\Main.cpp.i
+CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\math_\Documents\GitHub\CPlus_Course\Character\MainCharacter.cpp > CMakeFiles\CPlus_Course.dir\Character\MainCharacter.cpp.i
 
-CMakeFiles/CPlus_Course.dir/Main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus_Course.dir/Main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\math_\Documents\GitHub\CPlus_Course\Main.cpp -o CMakeFiles\CPlus_Course.dir\Main.cpp.s
+CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\math_\Documents\GitHub\CPlus_Course\Character\MainCharacter.cpp -o CMakeFiles\CPlus_Course.dir\Character\MainCharacter.cpp.s
+
+CMakeFiles/CPlus_Course.dir/Character/Character.cpp.obj: CMakeFiles/CPlus_Course.dir/flags.make
+CMakeFiles/CPlus_Course.dir/Character/Character.cpp.obj: ../Character/Character.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\math_\Documents\GitHub\CPlus_Course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPlus_Course.dir/Character/Character.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPlus_Course.dir\Character\Character.cpp.obj -c C:\Users\math_\Documents\GitHub\CPlus_Course\Character\Character.cpp
+
+CMakeFiles/CPlus_Course.dir/Character/Character.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus_Course.dir/Character/Character.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\math_\Documents\GitHub\CPlus_Course\Character\Character.cpp > CMakeFiles\CPlus_Course.dir\Character\Character.cpp.i
+
+CMakeFiles/CPlus_Course.dir/Character/Character.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus_Course.dir/Character/Character.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\math_\Documents\GitHub\CPlus_Course\Character\Character.cpp -o CMakeFiles\CPlus_Course.dir\Character\Character.cpp.s
+
+CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.obj: CMakeFiles/CPlus_Course.dir/flags.make
+CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.obj: ../Character/Weapon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\math_\Documents\GitHub\CPlus_Course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPlus_Course.dir\Character\Weapon.cpp.obj -c C:\Users\math_\Documents\GitHub\CPlus_Course\Character\Weapon.cpp
+
+CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\math_\Documents\GitHub\CPlus_Course\Character\Weapon.cpp > CMakeFiles\CPlus_Course.dir\Character\Weapon.cpp.i
+
+CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\math_\Documents\GitHub\CPlus_Course\Character\Weapon.cpp -o CMakeFiles\CPlus_Course.dir\Character\Weapon.cpp.s
+
+CMakeFiles/CPlus_Course.dir/Time/Time.cpp.obj: CMakeFiles/CPlus_Course.dir/flags.make
+CMakeFiles/CPlus_Course.dir/Time/Time.cpp.obj: ../Time/Time.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\math_\Documents\GitHub\CPlus_Course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPlus_Course.dir/Time/Time.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPlus_Course.dir\Time\Time.cpp.obj -c C:\Users\math_\Documents\GitHub\CPlus_Course\Time\Time.cpp
+
+CMakeFiles/CPlus_Course.dir/Time/Time.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus_Course.dir/Time/Time.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\math_\Documents\GitHub\CPlus_Course\Time\Time.cpp > CMakeFiles\CPlus_Course.dir\Time\Time.cpp.i
+
+CMakeFiles/CPlus_Course.dir/Time/Time.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus_Course.dir/Time/Time.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\math_\Documents\GitHub\CPlus_Course\Time\Time.cpp -o CMakeFiles\CPlus_Course.dir\Time\Time.cpp.s
+
+CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.obj: CMakeFiles/CPlus_Course.dir/flags.make
+CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.obj: ../Time/MainTime.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\math_\Documents\GitHub\CPlus_Course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPlus_Course.dir\Time\MainTime.cpp.obj -c C:\Users\math_\Documents\GitHub\CPlus_Course\Time\MainTime.cpp
+
+CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\math_\Documents\GitHub\CPlus_Course\Time\MainTime.cpp > CMakeFiles\CPlus_Course.dir\Time\MainTime.cpp.i
+
+CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\math_\Documents\GitHub\CPlus_Course\Time\MainTime.cpp -o CMakeFiles\CPlus_Course.dir\Time\MainTime.cpp.s
 
 # Object files for target CPlus_Course
 CPlus_Course_OBJECTS = \
-"CMakeFiles/CPlus_Course.dir/Main.cpp.obj"
+"CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.obj" \
+"CMakeFiles/CPlus_Course.dir/Character/Character.cpp.obj" \
+"CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.obj" \
+"CMakeFiles/CPlus_Course.dir/Time/Time.cpp.obj" \
+"CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.obj"
 
 # External object files for target CPlus_Course
 CPlus_Course_EXTERNAL_OBJECTS =
 
-CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/Main.cpp.obj
+CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.obj
+CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/Character/Character.cpp.obj
+CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.obj
+CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/Time/Time.cpp.obj
+CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.obj
 CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/build.make
 CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/linklibs.rsp
 CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/objects1.rsp
 CPlus_Course.exe: CMakeFiles/CPlus_Course.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\math_\Documents\GitHub\CPlus_Course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CPlus_Course.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\math_\Documents\GitHub\CPlus_Course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable CPlus_Course.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPlus_Course.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

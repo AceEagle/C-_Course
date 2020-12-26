@@ -142,32 +142,140 @@ CPlus_Course/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/build
 .PHONY : CPlus_Course/fast
 
-Main.obj: Main.cpp.obj
+Character/Character.obj: Character/Character.cpp.obj
 
-.PHONY : Main.obj
+.PHONY : Character/Character.obj
 
 # target to build an object file
-Main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Main.cpp.obj
-.PHONY : Main.cpp.obj
+Character/Character.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/Character.cpp.obj
+.PHONY : Character/Character.cpp.obj
 
-Main.i: Main.cpp.i
+Character/Character.i: Character/Character.cpp.i
 
-.PHONY : Main.i
+.PHONY : Character/Character.i
 
 # target to preprocess a source file
-Main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Main.cpp.i
-.PHONY : Main.cpp.i
+Character/Character.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/Character.cpp.i
+.PHONY : Character/Character.cpp.i
 
-Main.s: Main.cpp.s
+Character/Character.s: Character/Character.cpp.s
 
-.PHONY : Main.s
+.PHONY : Character/Character.s
 
 # target to generate assembly for a file
-Main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Main.cpp.s
-.PHONY : Main.cpp.s
+Character/Character.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/Character.cpp.s
+.PHONY : Character/Character.cpp.s
+
+Character/MainCharacter.obj: Character/MainCharacter.cpp.obj
+
+.PHONY : Character/MainCharacter.obj
+
+# target to build an object file
+Character/MainCharacter.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.obj
+.PHONY : Character/MainCharacter.cpp.obj
+
+Character/MainCharacter.i: Character/MainCharacter.cpp.i
+
+.PHONY : Character/MainCharacter.i
+
+# target to preprocess a source file
+Character/MainCharacter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.i
+.PHONY : Character/MainCharacter.cpp.i
+
+Character/MainCharacter.s: Character/MainCharacter.cpp.s
+
+.PHONY : Character/MainCharacter.s
+
+# target to generate assembly for a file
+Character/MainCharacter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/MainCharacter.cpp.s
+.PHONY : Character/MainCharacter.cpp.s
+
+Character/Weapon.obj: Character/Weapon.cpp.obj
+
+.PHONY : Character/Weapon.obj
+
+# target to build an object file
+Character/Weapon.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.obj
+.PHONY : Character/Weapon.cpp.obj
+
+Character/Weapon.i: Character/Weapon.cpp.i
+
+.PHONY : Character/Weapon.i
+
+# target to preprocess a source file
+Character/Weapon.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.i
+.PHONY : Character/Weapon.cpp.i
+
+Character/Weapon.s: Character/Weapon.cpp.s
+
+.PHONY : Character/Weapon.s
+
+# target to generate assembly for a file
+Character/Weapon.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Character/Weapon.cpp.s
+.PHONY : Character/Weapon.cpp.s
+
+Time/MainTime.obj: Time/MainTime.cpp.obj
+
+.PHONY : Time/MainTime.obj
+
+# target to build an object file
+Time/MainTime.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.obj
+.PHONY : Time/MainTime.cpp.obj
+
+Time/MainTime.i: Time/MainTime.cpp.i
+
+.PHONY : Time/MainTime.i
+
+# target to preprocess a source file
+Time/MainTime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.i
+.PHONY : Time/MainTime.cpp.i
+
+Time/MainTime.s: Time/MainTime.cpp.s
+
+.PHONY : Time/MainTime.s
+
+# target to generate assembly for a file
+Time/MainTime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Time/MainTime.cpp.s
+.PHONY : Time/MainTime.cpp.s
+
+Time/Time.obj: Time/Time.cpp.obj
+
+.PHONY : Time/Time.obj
+
+# target to build an object file
+Time/Time.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Time/Time.cpp.obj
+.PHONY : Time/Time.cpp.obj
+
+Time/Time.i: Time/Time.cpp.i
+
+.PHONY : Time/Time.i
+
+# target to preprocess a source file
+Time/Time.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Time/Time.cpp.i
+.PHONY : Time/Time.cpp.i
+
+Time/Time.s: Time/Time.cpp.s
+
+.PHONY : Time/Time.s
+
+# target to generate assembly for a file
+Time/Time.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus_Course.dir\build.make CMakeFiles/CPlus_Course.dir/Time/Time.cpp.s
+.PHONY : Time/Time.cpp.s
 
 # Help Target
 help:
@@ -178,9 +286,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CPlus_Course
-	@echo ... Main.obj
-	@echo ... Main.i
-	@echo ... Main.s
+	@echo ... Character/Character.obj
+	@echo ... Character/Character.i
+	@echo ... Character/Character.s
+	@echo ... Character/MainCharacter.obj
+	@echo ... Character/MainCharacter.i
+	@echo ... Character/MainCharacter.s
+	@echo ... Character/Weapon.obj
+	@echo ... Character/Weapon.i
+	@echo ... Character/Weapon.s
+	@echo ... Time/MainTime.obj
+	@echo ... Time/MainTime.i
+	@echo ... Time/MainTime.s
+	@echo ... Time/Time.obj
+	@echo ... Time/Time.i
+	@echo ... Time/Time.s
 .PHONY : help
 
 

@@ -80,10 +80,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Main.cpp">
+		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Character/Character.cpp">
 			<Option target="CPlus_Course"/>
 		</Unit>
-		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Main.h">
+		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Character/Character.h">
+			<Option target="CPlus_Course"/>
+		</Unit>
+		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Character/MainCharacter.cpp">
+			<Option target="CPlus_Course"/>
+		</Unit>
+		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Character/Weapon.cpp">
+			<Option target="CPlus_Course"/>
+		</Unit>
+		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Character/Weapon.h">
+			<Option target="CPlus_Course"/>
+		</Unit>
+		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Time/MainTime.cpp">
+			<Option target="CPlus_Course"/>
+		</Unit>
+		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Time/Time.cpp">
+			<Option target="CPlus_Course"/>
+		</Unit>
+		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/Time/Time.h">
 			<Option target="CPlus_Course"/>
 		</Unit>
 		<Unit filename="C:/Users/math_/Documents/GitHub/CPlus_Course/CMakeLists.txt">
